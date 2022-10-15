@@ -1,0 +1,73 @@
+body {
+background-image: url(background.jpg);
+background-size: cover;
+}
+#sfondo{
+    width: 750px;
+    margin:auto;
+    background-color: rgba(0, 0, 0, 0.507);
+    border-radius: 15px;
+    padding: 40px;
+}
+.piccola{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.font{
+    font-size: 30px;
+    color: rgb(2, 173, 2);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    font-family: 'Poppins', sans-serif;
+}
+.c{
+margin-left: 30%;
+}
+.minicontainer{
+    display:block;
+    background-color: rgb(2, 197, 2);
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nomi{
+    font-size: 20px;
+
+}
+.stato-carica1{
+    display: block;
+    background-color: rgb(206, 175, 3);
+    padding:12px;
+    margin-right: auto;
+    width: 35%;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+.margin{
+    margin:10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.stato-carica2{
+    display: block;
+    background-color: rgb(105, 199, 29);
+    padding:12px;
+    margin-right: auto;
+    width: 65%;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+.stato-carica3{
+    display: block;
+    background-color: rgb(199, 5, 5);
+    padding:12px;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
